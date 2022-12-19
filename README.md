@@ -66,4 +66,4 @@ If you know HTML and JS, you know brutal.js. Give it a spin, open an issue, make
 
 ## projects using brutal.js
 
-- [TodoMVC in brutal.js](https://github.com/dosyago-coder-0/rvanillatodo)
+- [TodoMVC in brutal.js](https://crisdosyago.github.io/rvanillatodo-1/)
